@@ -1,8 +1,8 @@
 📊 Retail Sales & Profit Intelligence Dashboard
 Excel-based business analysis of 8,500+ retail transactions to identify sales trends, profit leakage, discount impact, and customer behavior.
 
-📸 Dashboard Preview
-Retail Sales & Profit Dashboard
+## 📸 Dashboard Preview
+![Dashboard Preview](Screenshot%20(650).png)
 
 🎯 Business Problem
 High sales do not always mean high profit. This analysis looks at how discounts, products, regions, and customers affect profitability and where profit is being lost.
